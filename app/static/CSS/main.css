@@ -5,25 +5,25 @@
 }
 
 
-.bg-image {
+/* .bg-image {
 position: relative;
 width: 100%;
 min-width: 100vh;
-}
+} */
 
-.main-text-background {
+/* .main-text-background {
 position: absolute;
 top: 25%;
 align-items: center;
-}
+} */
 
-.main-text {
+/* .main-text {
 font-size: 8vh;
-}
+} */
 
-.profile-text-background {
+/* .profile-text-background {
 position: absolute;
 top: 40%;
 align-items: center;
-}
+} */
 
